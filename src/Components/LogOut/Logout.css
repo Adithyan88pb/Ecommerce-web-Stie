@@ -1,0 +1,13 @@
+.logout-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.logout-content {
+  text-align: center;
+}
+.logout-conten p {
+  font-size: 16px;
+  color: #888;
+}
